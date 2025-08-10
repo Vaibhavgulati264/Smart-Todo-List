@@ -1,4 +1,3 @@
-
 # Smart Todo List with AI Integration
 
 A modern, AI-powered task management application built with React, TypeScript, and Tailwind CSS. This application demonstrates intelligent task prioritization, context-aware recommendations, and smart deadline suggestions.
